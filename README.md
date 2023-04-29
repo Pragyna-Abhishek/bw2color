@@ -16,6 +16,11 @@ Due to GitHub's free tier limits, I could not upload the Caffe model here. Howev
 
 ## Results
 
-![Photo by Adam White](images/img1.jpg) -> ![](outputs/img1.jpg)
-![Photo by Dom Aguiar](images/img2.jpg) -> ![](outputs/img2.jpg)
-![Photo by freestocks](images/img3.jpg) -> ![](outputs/img3.jpg)
+Photo by Adam White on Unsplash
+![](images/img1.jpg) -> ![](outputs/img1.jpg)
+
+Photo by Dom Aguiar on Unsplash
+![](images/img2.jpg) -> ![](outputs/img2.jpg)
+
+Photo by freestocks on Unsplash
+![](images/img3.jpg) -> ![](outputs/img3.jpg)
