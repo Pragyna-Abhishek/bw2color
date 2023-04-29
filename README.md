@@ -16,6 +16,6 @@ Due to GitHub's free tier limits, I could not upload the Caffe model here. Howev
 
 ## Results
 
-![](images/img1.jpg) -> ![](outputs/img1.jpg)
-![](images/img2.jpg) -> ![](outputs/img2.jpg)
-![](images/img3.jpg) -> ![](outputs/img3.jpg)
+![Photo by Adam White](images/img1.jpg) -> ![](outputs/img1.jpg)
+![Photo by Dom Aguiar](images/img2.jpg) -> ![](outputs/img2.jpg)
+![Photo by freestocks](images/img3.jpg) -> ![](outputs/img3.jpg)
