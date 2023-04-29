@@ -10,13 +10,12 @@ The ***a*** channel indicates green-red values while<br/>
 
 The ***b*** channel indicates blue-yellow values<br/>
 
+## Note
+
+Due to GitHub's free tier limits, I could not upload the Caffe model here. However, you can download it from [CodeSpeedy's Google Drive](https://drive.google.com/drive/folders/1FaDajjtAsntF_Sw5gqF0WyakviA5l8-a) . Add that model to the *model/* directory.
 
 ## Results
 
 ![](images/img1.jpg) -> ![](outputs/img1.jpg)
 ![](images/img2.jpg) -> ![](outputs/img2.jpg)
 ![](images/img3.jpg) -> ![](outputs/img3.jpg)
-
-## Note
-
-Due to GitHub's free tier limits, I could not upload the Caffe model here. However, you can download it from [CodeSpeedy's Google Drive](https://drive.google.com/drive/folders/1FaDajjtAsntF_Sw5gqF0WyakviA5l8-a) . Add that model to the *model/* directory.
