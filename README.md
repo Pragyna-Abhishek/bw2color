@@ -10,6 +10,8 @@ The ***a*** channel indicates green-red values while<br/>
 
 The ***b*** channel indicates blue-yellow values<br/>
 
+![](https://expertphotography.b-cdn.net/wp-content/uploads/2019/12/lab-color-space.jpg)
+
 ## Note
 
 Due to GitHub's free tier limits, I could not upload the Caffe model here. However, you can download it from [CodeSpeedy's Google Drive](https://drive.google.com/drive/folders/1FaDajjtAsntF_Sw5gqF0WyakviA5l8-a) . Add that model to the *model/* directory.
